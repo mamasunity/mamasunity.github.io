@@ -46,6 +46,10 @@ googleAnalytics = ""
   url = "/general/"
   weight = 2
   [[menu.main]]
+  name = "一覧"
+  url = "/list/"
+  weight = 2
+  [[menu.main]]
   name = "体重"
   url = "/weight/"
   weight = 2
