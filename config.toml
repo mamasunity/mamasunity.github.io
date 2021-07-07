@@ -1,13 +1,13 @@
-baseURL = "http://example.org/"
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "https://mamasunity.github.io/"
+languageCode = "jp"
+DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 enableEmoji = true
 # pagination = 10
 
-title = "Hugo"
-author = "Rainer Chiang"
-copyright = "[Home](/) &#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)"
+title = "職務と言う鋳型"
+author = "mamasunity"
+copyright = "[Home](/) &#183;"
 
 theme = "simpleness"
 googleAnalytics = ""
@@ -25,7 +25,7 @@ googleAnalytics = ""
 
 [params.valine]
   enable = false
-  lang = 'en' # zh-CN
+  lang = 'jp' # zh-CN
   appId = ''
   appKey = ''
   placeholder = 'Say Something......'
@@ -46,7 +46,7 @@ googleAnalytics = ""
   weight = 2
 
 [social]
-  github = "https://github.com/RainerChiang"
+  github = "https://github.com/mamasunity"
   rss = "index.xml"
 
 [taxonomies]

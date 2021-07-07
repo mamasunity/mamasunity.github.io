@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>職務と言う鋳型</title>
+    <link>https://mamasunity.github.io/</link>
+    <description>Recent content on 職務と言う鋳型</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <copyright>[Home](/) &amp;#183;</copyright>
+    <lastBuildDate>Wed, 18 Jan 2017 02:01:58 +0530</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mamasunity.github.io/about/</link>
+      <pubDate>Tue, 22 Sep 2020 10:37:58 +0530</pubDate>
+      
+      <guid>https://mamasunity.github.io/about/</guid>
+      <description>About Yourself This is some static page where you can write about yourself.
+hugo theme simpleness A hugo theme ported form contrast-hugo</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://mamasunity.github.io/posts/20210706/</link>
+      <pubDate>Wed, 18 Jan 2017 02:01:58 +0530</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210706/</guid>
+      <description>あああ
+ </description>
+    </item>
+    
+  </channel>
+</rss>
