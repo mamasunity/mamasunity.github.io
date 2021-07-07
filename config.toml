@@ -26,11 +26,11 @@ googleAnalytics = ""
 
 [params.valine]
   enable = false
-  lang = 'jp' # zh-CN
+  lang = 'jp'
   appId = ''
   appKey = ''
-  placeholder = 'Say Something......'
-  requiredFields = ['nick', 'mail']
+  placeholder = ''
+  requiredFields = []
   avatar = 'robohash'
   visitor = true
   enableHeaderVisitor = true
@@ -38,12 +38,12 @@ googleAnalytics = ""
 
 [menu]
   [[menu.main]]
-  name = "Home"
+  name = "ホーム"
   url = "/"
   weight = 1
   [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "一般"
+  url = "/general/"
   weight = 2
   [[menu.main]]
   name = "体重"
