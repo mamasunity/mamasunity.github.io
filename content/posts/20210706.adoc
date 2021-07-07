@@ -1,11 +1,8 @@
 ---
-title: Emoji Support
-date: 2017-01-18T02:01:58+05:30
-lastmod: 2020-10-09T10:13:38+08:00
-author: Rainer Chiang
+title: まとめ
+date: 2021-07-06T12:00:00+09:00
 
-description: You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
-categories: [Hugo]
+categories: []
 tags: [emoji, test]
 
 draft: false
@@ -15,4 +12,30 @@ disableToC: false
 disableAutoCollapse: true
 ---
 
-あああ
+== 映画
+=== ファンタスティック・ビーストと魔法使いの旅
+
+* 主人公は、ニュート・スキャマンダー。魔法動物学者。
+* Fantastic Beasts and Where to Find Them 3。２０２１年、全米公開。
+* 魔法生物がわちゃわちゃわちゃわちゃ動くのが楽しい。
+
+=== 工作　黒金星と呼ばれた男
+
+* 主人公は、パク・ソギョン韓国軍の元陸軍少佐。
+* 1990年代、韓国のスパイが核開発の実態を探るために潜入を命じられる。
+* 攻撃の中止を進言する時の緊張感が凄い。
+
+=== レディ・プレイヤー
+
+* 監督は、スピルバーグ。
+* 仮想世界（オアシス）の３つの謎を解き支配権を手に入れよう。
+* 続編の制作が進行中。
+
+== 漫画
+=== ワールドトリガー
+
+* 香取と諏訪が好き
+
+=== 葬送のフリーレン
+
+* 魔王を倒した後の勇者一行を描く。
