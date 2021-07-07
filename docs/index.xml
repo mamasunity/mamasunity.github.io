@@ -7,28 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>測定</title>
-      <link>https://mamasunity.github.io/posts/20210705/</link>
-      <pubDate>Wed, 07 Jul 2021 12:00:00 +0900</pubDate>
-      
-      <guid>https://mamasunity.github.io/posts/20210705/</guid>
-      <description>Table 1. ダイエット     日付 体重     2021/07/06
- 65.4
-   2021/07/07
- 64.8
-   2021/07/08
- -----
-   2021/07/09
- -----
-   2021/07/10
- -----
-   2021/07/11
- -----
-    </description>
-    </item>
-    
+    <lastBuildDate>Tue, 06 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://mamasunity.github.io/about/</link>
@@ -56,6 +35,27 @@
       漫画 ワールドトリガー   香取と諏訪が好き
     葬送のフリーレン   魔王を倒した後の勇者一行を描く。
       </description>
+    </item>
+    
+    <item>
+      <title>体重</title>
+      <link>https://mamasunity.github.io/weight/</link>
+      <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/weight/</guid>
+      <description>Table 1. 体重     日付 体重     2021/07/06
+ 65.4
+   2021/07/07
+ 64.8
+   2021/07/08
+ -----
+   2021/07/09
+ -----
+   2021/07/10
+ -----
+   2021/07/11
+ -----
+    </description>
     </item>
     
   </channel>
