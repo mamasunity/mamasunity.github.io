@@ -42,17 +42,21 @@ googleAnalytics = ""
   url = "/"
   weight = 1
   [[menu.main]]
-  name = "一般"
-  url = "/general/"
+  name = "私について"
+  url = "/personality/"
   weight = 2
   [[menu.main]]
   name = "一覧"
   url = "/list/"
-  weight = 2
+  weight = 3
   [[menu.main]]
   name = "体重"
   url = "/weight/"
-  weight = 2
+  weight = 4
+  [[menu.main]]
+  name = "一般"
+  url = "/general/"
+  weight = 5
 
 [social]
   github = "https://github.com/mamasunity"

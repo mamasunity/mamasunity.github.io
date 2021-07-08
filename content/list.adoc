@@ -3,37 +3,9 @@ title: 一覧
 date: 2021-07-06T12:00:00+09:00
 ---
 
-== 性格
-
-* 頑張ろうと思っても、頑張れない気がしている。
-* 好いている人とぽよぽよ暮らしたい。
-
-== 興味
-
-* マクロ経済学（かつてはありました）
-
-== キーワード
-
-工業的プログラミング
-
-== やりたいこと
-
-* 大きな卵豆腐を食べたい。
-
-== 苦手なもの
-
-* プライベートの時間に会社の技術ブログを書かされること。
-* 他人のKPIの達成に対して、強制的に手伝わされること。
-* ランキングを見ること（売りたい順に並べられている気がするので）
-
-== 最近、考えていること
-
-* ラーメン７５０円のコスパが悪いのではないか？
-* 地球が丸いと端の方からクジラさんが、落ちてしまうのではないか？
-* アジャイルでは、全ての物事を言語化出来るという暗黙の前提を置いている感じがしている。
-
 == Youtube
 
-* https://www.youtube.com/channel/UC1KM0FPG8NvCWKRZURZZEfQ
-* https://www.youtube.com/channel/UCrcqCDrC5nn-8KrbzUNrvSA
-* https://www.youtube.com/c/shu3san/featured
+* https://www.youtube.com/channel/UC1KM0FPG8NvCWKRZURZZEfQ[カカチャンネル]
+* https://www.youtube.com/channel/UCrcqCDrC5nn-8KrbzUNrvSA[ナカイドのゲーム情報チャンネル]
+* https://www.youtube.com/c/shu3san/featured[shu3]
+* https://www.youtube.com/watch?v=Jxi_D-weT7U&list=PLbqXqzekGQ4qTNBbcmW_v2pdvzY96_Ejm[異世界大日本帝国]
