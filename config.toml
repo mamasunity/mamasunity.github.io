@@ -50,12 +50,12 @@ googleAnalytics = ""
   url = "/list/"
   weight = 3
   [[menu.main]]
-  name = "体重"
-  url = "/weight/"
-  weight = 4
-  [[menu.main]]
   name = "一般"
   url = "/general/"
+  weight = 4
+  [[menu.main]]
+  name = "その他"
+  url = "/other/"
   weight = 5
 
 [social]

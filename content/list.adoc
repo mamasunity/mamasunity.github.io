@@ -10,7 +10,16 @@ date: 2021-07-06T12:00:00+09:00
 * https://www.youtube.com/c/shu3san/featured[shu3]
 * https://www.youtube.com/watch?v=Jxi_D-weT7U&list=PLbqXqzekGQ4qTNBbcmW_v2pdvzY96_Ejm[異世界大日本帝国]
 * https://www.youtube.com/channel/UCSgheR9xOIcQjlkeXqIofLQ[DWU]
+* https://www.youtube.com/channel/UCgfaLRJVP2alPPvhadv5hRA[Nekroz]
+* https://www.youtube.com/watch?v=6SZzibxjdGg&list=PLZcOpFipzeuEJCTE7kLZ_34ojnHoxthaK[イギリスで三枚舌外交してみた]
+* https://www.youtube.com/c/yobinori/videos[予備校のノリで学ぶ「大学の数学・物理」]
+* https://www.youtube.com/channel/UCl1AW7RANmIJFdnS1-TJs2w/videos[TSK College]
 
 == リンク集
 
 * https://messagepassing.github.io/[Message Passing]
+* https://razokulover.hateblo.jp/entry/2020/03/07/172956[高校レベルの数学から大学の教養数学くらいまでを独学/学び直した]
+* https://jpmpmpw.hatenablog.com/[たくちゃんのわくわくブログ]
+* https://www.mof.go.jp/pri/publication/financial_review/index.htm[フィナンシャル・レビュー]
+* https://www.rieti.go.jp/jp/publications/nts/index.html[ノンテクニカルサマリー]
+* https://kirimin.hatenablog.com/entry/2020/05/11/192436[フリーランスなので4ヶ月仕事をせず学習と趣味に全力投球しようとしたけどそんなに強くなかった]
