@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021/07/08</title>
+      <link>https://mamasunity.github.io/posts/20210708/</link>
+      <pubDate>Thu, 08 Jul 2021 12:00:00 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210708/</guid>
+      <description>Log   クラフトの不等式がイマイチ分からんにゃんね、、、
+  各分野に於ける数学のお気持ちが分かってきた。要するにインプリケーションが重要ってことですね。
+     Keyword シャノン・ファノ符号化、ハフマン符号
+   </description>
+    </item>
+    
     <item>
       <title>2021/07/07</title>
       <link>https://mamasunity.github.io/posts/20210707/</link>
@@ -63,6 +75,8 @@
   ナカイドのゲーム情報チャンネル
   shu3
   異世界大日本帝国
+  DWU
+     リンク集   Message Passing
      </description>
     </item>
     
@@ -77,7 +91,7 @@
    2021/07/07
  64.8
    2021/07/08
- 64.8
+ 64.8(1326Kcal)
    2021/07/09
  -----
    2021/07/10
@@ -100,21 +114,21 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/personality/</guid>
-      <description>考えていること   頑張ろうと思っても、頑張れない気がしている。
-  好いている人とぽよぽよ暮らしたい。
-  ラーメン７５０円のコスパが悪いのではないか？
-  地球が丸いと端の方からクジラさんが、落ちてしまうのではないか？
-  アジャイルでは、全ての物事を言語化出来るという暗黙の前提を置いている感じがしている。
-     興味   マクロ経済学
-     キーワード 工業的プログラミング
-   やりたいこと   卵豆腐を食べたい。
+      <description>興味   国際経済学
+  産業組織論
+     やりたいこと   ビックな卵豆腐を食べたい。
   国立印刷局に見学に行きたい。
   出光美術館に行きたい。
+  データを眺めたい。
      苦手なもの   プライベートの時間に会社の技術ブログを書かされること。
   他人のKPIの達成に対して、強制的に手伝わされること。
-  ランキングを見ること（売りたい順に並べられている気がするので）
-     理解していないこと   λ計算
-  自動微分</description>
+  ランキング（売りたい順に並べられている気がするので）
+     いつか理解したいけど、理解していないこと   λ計算
+  自動微分
+     考えていること   好いている人とぽよぽよ暮らしたい。
+  頑張ろうと思っても、頑張れない！！
+  地球が丸いと端の方からクジラさんが、落ちゃいます。
+  アジャイルでは、全ての物事を言語化出来るという暗黙の前提を置いている感じがしている。</description>
     </item>
     
   </channel>

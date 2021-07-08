@@ -9,3 +9,8 @@ date: 2021-07-06T12:00:00+09:00
 * https://www.youtube.com/channel/UCrcqCDrC5nn-8KrbzUNrvSA[ナカイドのゲーム情報チャンネル]
 * https://www.youtube.com/c/shu3san/featured[shu3]
 * https://www.youtube.com/watch?v=Jxi_D-weT7U&list=PLbqXqzekGQ4qTNBbcmW_v2pdvzY96_Ejm[異世界大日本帝国]
+* https://www.youtube.com/channel/UCSgheR9xOIcQjlkeXqIofLQ[DWU]
+
+== リンク集
+
+* https://messagepassing.github.io/[Message Passing]
