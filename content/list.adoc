@@ -17,9 +17,9 @@ date: 2021-07-06T12:00:00+09:00
 
 == リンク集
 
-* https://messagepassing.github.io/[Message Passing]
-* https://razokulover.hateblo.jp/entry/2020/03/07/172956[高校レベルの数学から大学の教養数学くらいまでを独学/学び直した]
-* https://jpmpmpw.hatenablog.com/[たくちゃんのわくわくブログ]
 * https://www.mof.go.jp/pri/publication/financial_review/index.htm[フィナンシャル・レビュー]
 * https://www.rieti.go.jp/jp/publications/nts/index.html[ノンテクニカルサマリー]
+* https://messagepassing.github.io/[Message Passing]
+* https://jpmpmpw.hatenablog.com/[たくちゃんのわくわくブログ]
+* https://razokulover.hateblo.jp/entry/2020/03/07/172956[高校レベルの数学から大学の教養数学くらいまでを独学/学び直した]
 * https://kirimin.hatenablog.com/entry/2020/05/11/192436[フリーランスなので4ヶ月仕事をせず学習と趣味に全力投球しようとしたけどそんなに強くなかった]
