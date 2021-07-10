@@ -16,7 +16,8 @@
       <guid>https://mamasunity.github.io/posts/20210709/</guid>
       <description>Logs   サイコパス３部作を見た。
   サザーン・リーチシリーズを読んでみたが、何となく挫折しました。
-     Keyword   </description>
+     Jupyter notebookで、二値エントロピー関数をグラフ化する import numpy as np import matplotlib.pylab as plt p = np.linspace(0.001, 0.999) plt.plot(p, -p * np.log2(p) - (1-p) * np.log2(1 - p)) plt.xlabel(&amp;#34;Binary entropy function&amp;#34;) plt.ylabel(&amp;#39;-plogp-(1-p)log(1-p)&amp;#39;) plt.grid() plt.show()     Keyword 自己情報量、平均情報量、相互情報量
+   </description>
     </item>
     
     <item>
