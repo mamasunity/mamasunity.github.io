@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Fri, 09 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021/07/10</title>
+      <link>https://mamasunity.github.io/posts/20210710/</link>
+      <pubDate>Sat, 10 Jul 2021 12:00:00 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210710/</guid>
+      <description>Log   ２値エントロピー関数の最大値を解析的に分析出来るかなぁと思ったけど、なかなか難しいようでした。
+     Keyword なし
+   </description>
+    </item>
+    
     <item>
       <title>2021/07/09</title>
       <link>https://mamasunity.github.io/posts/20210709/</link>
@@ -119,26 +130,24 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/weight/</guid>
-      <description>Table 1. 体重     日付 体重     2021/07/06
+      <description>備忘録   ジュースを飲まない。
+  63.1Kgで、新しいズボンを購入する。
+  62.1Kgで、えみさん。
+     記録 Table 1. 体重     日付 体重     2021/07/07
  65.4
-   2021/07/07
- 64.8(1326Kcal)
    2021/07/08
- 64.8(1750Kcal)
+ 64.8(1326Kcal)
    2021/07/09
- 64.2(1251Kcal)
+ 64.8(1750Kcal)
    2021/07/10
- -----
+ 64.2(1251Kcal)
+   2021/07/11
+ 64.1(1562Kcal)
    2021/07/12
  -----
    2021/07/13
  -----
-   2021/07/14
- -----
-   2021/07/15
- -----
-   2021/07/16
- -----</description>
+      </description>
     </item>
     
     <item>
@@ -147,21 +156,21 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/personality/</guid>
-      <description>興味   貿易理論
-  産業組織論
+      <description>興味   通信理論
+  成長理論
      やりたいこと   大きな卵豆腐を食す。
   国立印刷局への見学。
   出光美術館への見学。
-  Go言語を使用した業務アプリケーションの開発。
+  Go言語を使用したお仕事。
      苦手なもの   ランキングを見ること。
   他人のKPIの達成に対して、強制的に手伝わされること。
   会社の技術ブログをプライベートの時間を利用して、書かされること。
      いつか理解したいけど、理解していないこと   λ計算
   自動微分
   不完全性定理
-  ZFC
      考えていること   好いている人とぽよぽよ暮らしたい。
-  頑張ろうと思っても、頑張れない感じがしています！！</description>
+  頑張ろうと思っても、頑張れない感じがしています！！
+  物事を直ぐに単純化して理解する癖がある感じが</description>
     </item>
     
     <item>
