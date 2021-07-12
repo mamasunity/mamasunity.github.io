@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Sat, 10 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021/07/11</title>
+      <link>https://mamasunity.github.io/posts/20210711/</link>
+      <pubDate>Sun, 11 Jul 2021 12:00:00 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210711/</guid>
+      <description>Log   Keyword   </description>
+    </item>
+    
     <item>
       <title>2021/07/10</title>
       <link>https://mamasunity.github.io/posts/20210710/</link>
@@ -75,7 +84,7 @@
       
       <guid>https://mamasunity.github.io/other/</guid>
       <description>京都   イノダコーヒ本店　京都府京都市中京区
-     忘備録   ７月の偶然性は、残り３つ。
+     忘備録   残りの偶発性は、３つ。
      </description>
     </item>
     
@@ -97,7 +106,7 @@
     サバイバー：宿命の大統領   指定生存者として生き残った主人公が、大統領となりアメリカ合衆国を率いる。
   シーズン１が、面白かった。シーズン２以降は、とても色が異なっているので別ドラマと考えると良い。
       漫画 ワールドトリガー   香取と諏訪さんが好き。また、二宮が、熱くなる場面も良い。
-    葬送のフリーレン   勇者が魔王を倒した後の物語。残されるものは辛くないのかなぁ。</description>
+    葬送（そうそう）のフリーレン   勇者が魔王を倒した後の物語。残される人達は辛くないのかなぁ。</description>
     </item>
     
     <item>
@@ -115,6 +124,7 @@
   イギリスで三枚舌外交してみた
   予備校のノリで学ぶ「大学の数学・物理」
   TSK College
+  嵐よういちチャンネル
      リンク集   フィナンシャル・レビュー
   ノンテクニカルサマリー
   Message Passing
@@ -130,9 +140,8 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/weight/</guid>
-      <description>備忘録   惣菜とジュースのみ
-  腕立て１０回
-  63.1で、新しいズボンの購入
+      <description>備忘録   腕立て１０回
+  63.1で、新しいズボンの購入（目標体重）
   62.1で、えみさん
      記録 Table 1. 体重     日付 体重     2021/07/07
  65.4
@@ -145,9 +154,10 @@
    2021/07/11
  64.1(1562Kcal)
    2021/07/12
- 64.1
+ 64.1(1664Kcal)
    2021/07/13
- -----</description>
+ -----
+   2021/07/14</description>
     </item>
     
     <item>
@@ -157,20 +167,20 @@
       
       <guid>https://mamasunity.github.io/personality/</guid>
       <description>興味   通信理論
-  成長理論
-     やりたいこと   大きな卵豆腐を食す。
+  解析学
+     やりたいこと   大きな卵豆腐を食べたい。
   国立印刷局への見学。
   出光美術館への見学。
-  Go言語を使用したお仕事。
+  ホットヨガに行きたい。
      苦手なもの   ランキングを見ること。
   他人のKPIの達成に対して、強制的に手伝わされること。
   会社の技術ブログをプライベートの時間を利用して、書かされること。
-     いつか理解したいけど、理解していないこと   λ計算
+     いつか理解したいけど、、、   λ計算
   自動微分
   不完全性定理
      考えていること   好いている人とぽよぽよ暮らしたい。
   頑張ろうと思っても、頑張れない感じがしています！！
-  物事を直ぐに単純化して理解する癖がある感じが</description>
+  物事を直ぐに単純化して理解する癖がある感じがしていて辛い。</description>
     </item>
     
     <item>
@@ -181,15 +191,13 @@
       <guid>https://mamasunity.github.io/goal/</guid>
       <description>体重   腕立て１０回
   体重とカロリーを記録
-  惣菜とジュースのみ。外食や居酒屋は、付き合いのみ。
+  惣菜とジュースのみ。
      学習 基本的には以下の教材を薄く理解が空回転するまで行う。
    情報理論のエッセンス
-  例題で学ぶグラフ理論
   手を動かして学ぶ微分積分
-  Go言語
-     やらないこと   経済学（もう十分すぎるほどやったのと、リソースを確保出来ないので）
-  英語(専門の洋書を困らずに読めるので)
-  データ構造とアルゴリズム（残念ながら、興味が沸かないので）
+     やらないこと   経済学（リソースの優先順位敵に）
+  英語(読みたい本が困らず読めるので)
+  データ構造とアルゴリズム（興味が沸かないので）
      </description>
     </item>
     
