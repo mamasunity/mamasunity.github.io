@@ -7,14 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021/07/12</title>
+      <link>https://mamasunity.github.io/posts/20210712/</link>
+      <pubDate>Mon, 12 Jul 2021 12:00:00 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210712/</guid>
+      <description>Log   そろそろ情報理論の教科書が終わりそうで、めでたい。
+     Keyword シャノンの第一基本定理、シャノンの第二基本定理
+   </description>
+    </item>
+    
     <item>
       <title>2021/07/11</title>
       <link>https://mamasunity.github.io/posts/20210711/</link>
       <pubDate>Sun, 11 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/posts/20210711/</guid>
-      <description>Log   Keyword   </description>
+      <description>Log たくさん歩いたら疲れてしまった。
+   Keyword なし。
+   </description>
     </item>
     
     <item>
@@ -131,6 +144,7 @@
   たくちゃんのわくわくブログ
   高校レベルの数学から大学の教養数学くらいまでを独学/学び直した
   フリーランスなので4ヶ月仕事をせず学習と趣味に全力投球しようとしたけどそんなに強くなかった
+     Twitterアカウント   Qさん
      </description>
     </item>
     
@@ -146,17 +160,17 @@
      記録 Table 1. 体重     日付 体重     2021/07/07
  65.4
    2021/07/08
- 64.8(1326Kcal)
+ 64.8(1326)
    2021/07/09
- 64.8(1750Kcal)
+ 64.8(1750)
    2021/07/10
- 64.2(1251Kcal)
+ 64.2(1251)
    2021/07/11
- 64.1(1562Kcal)
+ 64.1(1562)
    2021/07/12
- 64.1(1664Kcal)
+ 64.1(1664)
    2021/07/13
- -----
+ 63.9(1600)
    2021/07/14</description>
     </item>
     
@@ -195,8 +209,8 @@
      学習 基本的には以下の教材を薄く理解が空回転するまで行う。
    情報理論のエッセンス
   手を動かして学ぶ微分積分
-     やらないこと   経済学（リソースの優先順位敵に）
-  英語(読みたい本が困らず読めるので)
+     やらないこと   英語(読みたい本が困らず読めるので)
+  経済学（リソースの優先順位的に）
   データ構造とアルゴリズム（興味が沸かないので）
      </description>
     </item>
