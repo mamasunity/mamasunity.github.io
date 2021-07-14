@@ -70,7 +70,3 @@ aaa
 === BBB
 
 bbb
-
-=== CCC
-
-ccc
