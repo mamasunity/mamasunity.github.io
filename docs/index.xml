@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>[Home](/) &amp;#183;</copyright>
-    <lastBuildDate>Tue, 13 Jul 2021 12:00:00 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 19:03:15 +0900</lastBuildDate><atom:link href="https://mamasunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021/07/14</title>
+      <link>https://mamasunity.github.io/posts/20210714/</link>
+      <pubDate>Thu, 15 Jul 2021 19:03:15 +0900</pubDate>
+      
+      <guid>https://mamasunity.github.io/posts/20210714/</guid>
+      <description>Log   飲食のアルバイトとか切れば良いと言っている人がいて、ダメージを受けた。一方、アルバイトのスキルでは、高いものが求められるとか言っていた、、、
+  firewoodは、まきという意味。
+     Keyword 全確率の公式、ベイズの定理、アルキメデスの原理
+   </description>
+    </item>
+    
     <item>
       <title>2021/07/13</title>
       <link>https://mamasunity.github.io/posts/20210713/</link>
@@ -158,12 +170,12 @@
   嵐よういちチャンネル
      Twitter   Qさん
   Kohta Ishikawaさん
+  fukusanityさん
      リンク集   フィナンシャル・レビュー
   ノンテクニカルサマリー
   Message Passing
   たくちゃんのわくわくブログ
-  高校レベルの数学から大学の教養数学くらいまでを独学/学び直した
-  フリーランスなので4ヶ月仕事をせず学習と趣味に全力投球しようとしたけどそんなに強くなかった</description>
+  高校レベルの数学から大学の教養数学くらいまでを独学/学び直した</description>
     </item>
     
     <item>
@@ -189,7 +201,7 @@
    2021/07/14
  63.8(1741)
    2021/07/15
- 64.1
+ 64.1(1221)
    2021/07/16
  -----</description>
     </item>
@@ -200,8 +212,9 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/personality/</guid>
-      <description>興味   情報理論
-  解析学
+      <description>興味   解析学
+  グラフ理論
+  情報理論
      やりたいこと   大きな卵豆腐を食べたい。
   国立印刷局への見学。
   出光美術館への見学。
@@ -212,9 +225,8 @@
      いつか理解したいけど、、、   遺伝的アルゴリズム
   λ計算
   自動微分
-     考えていること   好いている人とぽよぽよ暮らしたい。
-  頑張ろうと思っても、頑張れない感じがしています！！
-  物事を直ぐに単純化して理解する癖がある感じがする。</description>
+  線形符号
+     考えていること   好いている人とぽよぽよ暮らしたい。</description>
     </item>
     
     <item>
@@ -223,7 +235,7 @@
       <pubDate>Tue, 06 Jul 2021 12:00:00 +0900</pubDate>
       
       <guid>https://mamasunity.github.io/goal/</guid>
-      <description>学習 以下は、使う教科書である。
+      <description>やること 以下は、使う教科書である。
    手を動かして学ぶ微分積分
   例題で学ぶグラフ理論
      やらないこと   英語
